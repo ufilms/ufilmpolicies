@@ -1,4 +1,5 @@
 import { defineConfig } from "vitepress";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -6,10 +7,6 @@ export default defineConfig({
   description: "ufilms policies",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: "Home", link: "/" },
-      { text: "Examples", link: "/markdown-examples" },
-    ],
 
     sidebar: [
       {
