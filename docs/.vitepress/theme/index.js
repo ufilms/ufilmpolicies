@@ -1,5 +1,4 @@
 import DefaultTheme from "vitepress/theme";
-import { injectSpeedInsights } from "@vercel/speed-insights";
 
 export default {
   ...DefaultTheme,
