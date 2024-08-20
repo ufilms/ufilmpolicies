@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Green Power Media Policies"
+  name: "uFilms"
   text: "List of policies"
-  tagline: "This portal is the central repository for all official policy documents governing Green Power Media. Employees and contractors can find and reference the full spectrum of GPM wide policies and protocols."
+  tagline: "This portal is the central repository for all official policy documents governing uFilms. Employees and contractors can find and reference the full spectrum of GPM wide policies and protocols."
   actions:
     - theme: brand
       text: Information Security Policy
