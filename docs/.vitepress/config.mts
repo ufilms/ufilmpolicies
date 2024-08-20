@@ -16,48 +16,48 @@ export default defineConfig({
         items: [
           {
             text: "Information Security Policy",
-            link: "docs/1_Information_Security_Policy.md",
+            link: "/1_Information_Security_Policy.md",
           },
           {
             text: "Acceptable Use Policy (AUP)",
-            link: "docs/2_Acceptable_Use_Policy.md",
+            link: "/2_Acceptable_Use_Policy.md",
           },
           {
             text: "Access Control Policy",
-            link: "docs/3_Access_Control_Policy.md",
+            link: "/3_Access_Control_Policy.md",
           },
           {
             text: "Incident Response Plan",
-            link: "docs/4_Incident_Response_Plan.md",
+            link: "/4_Incident_Response_Plan.md",
           },
           {
             text: "Disaster Recovery and Business Continuity Plan",
-            link: "docs/5_Disaster_Recovery_and_Business_Continuity_Plan.md",
+            link: "/5_Disaster_Recovery_and_Business_Continuity_Plan.md",
           },
           {
             text: "Data Protection and Privacy Policy",
-            link: "docs/6_Data_Protection_and_Privacy_Policy.md",
+            link: "/6_Data_Protection_and_Privacy_Policy.md",
           },
           {
             text: "Risk Management Policy",
-            link: "docs/7_Risk_Management_Policy.md",
+            link: "/7_Risk_Management_Policy.md",
           },
           {
             text: "Change Management Policy",
-            link: "docs/8_Change_Management_Policy.md",
+            link: "/8_Change_Management_Policy.md",
           },
-          { text: "Remote Work Policy", link: "docs/9_Remote_Work_Policy.md" },
+          { text: "Remote Work Policy", link: "/9_Remote_Work_Policy.md" },
           {
             text: "Employee Onboarding/Offboarding Procedures",
-            link: "docs/10_Employee_Onboarding_Offboarding_Procedures.md",
+            link: "/10_Employee_Onboarding_Offboarding_Procedures.md",
           },
           {
             text: "Vendor Management Policy",
-            link: "docs/11_Vendor_Management_Policy.md",
+            link: "/11_Vendor_Management_Policy.md",
           },
           {
             text: "Training and Awareness Program",
-            link: "docs/12_Training_and_Awareness_Program.md",
+            link: "/12_Training_and_Awareness_Program.md",
           },
         ],
       },
